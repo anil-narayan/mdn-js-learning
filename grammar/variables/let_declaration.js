@@ -7,6 +7,15 @@ a=10;
 
 console.log("a",a)
 
+let b=55;
+
+console.log("b",b)
+
+
+
+
+
+
 {
     // this is a code block
     // a is redeclared inside a code block and assigned value 20
@@ -17,7 +26,8 @@ console.log("a",a)
     let b=100
     console.log("b",b)
 }
+console.log("a",a)
 
 console.log("a",a)
-console.log("b",b)// this causes error because variable b is declared within code block
-console.log("a",a)
+
+console.log("b", b)

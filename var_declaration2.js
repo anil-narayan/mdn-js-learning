@@ -3,7 +3,7 @@ var a;
 
 console.log("a",a)
 
-a=10;
+a=30;
 
 console.log("a",a)
 
@@ -18,7 +18,7 @@ console.log("a",a)
     console.log("b",b)
 
 }
+
 console.log("a",a)
 console.log("b",b)
-console.log("a",a)
-console.log("a",a)
+
